@@ -1,4 +1,22 @@
 body{
 background: red;
 }
-    
+#Test{
+    font-style: oblique;
+ }
+ .my-class{
+    font-style: oblique;
+    width: 500px;
+ }
+
+.button{
+    background:blue;
+    color:red;  
+}    
+.span{
+    background:blue;
+}
+
+#test{
+    background: yellow;
+}
